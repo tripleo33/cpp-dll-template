@@ -1,0 +1,22 @@
+# Build directories
+Debug/
+Release/
+x64/
+x86/
+.vs/
+
+# Visual Studio
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Object files
+*.o
+*.obj
+*.lib
+*.exp
+
+# Compiled DLL
+*.dll
+*.pdb
